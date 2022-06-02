@@ -45,6 +45,12 @@ button {
     border: #3882F6;
     border-radius: 5px;
     font-weight: bold;
+    transition:  1s;
+}
+
+button:hover {
+    transform: translateX(10px);
+    transition:  1s;
 }
 
 header {
