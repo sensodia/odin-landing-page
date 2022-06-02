@@ -123,6 +123,12 @@ button.signup-two {
     text-align: center;
     width: 200px;
     color: #57606d;
+    transition: 0.5s;
+}
+
+.info-bloc:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
 }
 
 .image-container-one {
