@@ -90,7 +90,7 @@ header .content {
 
 .right-content {
     flex: 60%;
-    background: center red url(/images/sergey-pesterev.jpg);
+    background: center red url(images/sergey-pesterev.jpg);
     background-size: cover;
     height: 240px;
     width: 540px;
